@@ -1,7 +1,7 @@
 /******************
 Name: Elad Ben Zion
 ID: I_AM_NOT_GOING_TO_SHOW_IT_IN_GITHUB
-Assignment: Exercise 1
+Assignment: ex01
 *******************/
 #include <stdio.h>
 

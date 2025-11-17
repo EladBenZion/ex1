@@ -32,7 +32,7 @@ int main()
     scanf("%d", &n);
 
     int onesComplement = ~n;
-    printf("1's complement: %d\n", onesComplement);
+    printf("1's complement: -%d\n", onesComplement);
 
     unsigned int unsignedValue = (unsigned int)n;
     printf("unsigned: %u", unsignedValue);
